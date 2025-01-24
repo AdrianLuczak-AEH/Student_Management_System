@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Anna Kowalska",
+    "age": 22,
+    "grade": 4.5,
+    "studentID": "1"
+  },
+  {
+    "name": "Jan Nowak",
+    "age": 20,
+    "grade": 3.8,
+    "studentID": "2"
+  },
+  {
+    "name": "Katarzyna Wiśniewska",
+    "age": 19,
+    "grade": 4.0,
+    "studentID": "3"
+  },
+  {
+    "name": "Marek Wójcik",
+    "age": 23,
+    "grade": 2.5,
+    "studentID": "4"
+  },
+  {
+    "name": "Joanna Zielińska",
+    "age": 21,
+    "grade": 4.8,
+    "studentID": "5"
+  },
+  {
+    "name": "Piotr Kamiński",
+    "age": 24,
+    "grade": 3.2,
+    "studentID": "6"
+  },
+  {
+    "name": "Ewa Lewandowska",
+    "age": 18,
+    "grade": 5.0,
+    "studentID": "7"
+  },
+  {
+    "name": "Tomasz Kowalczyk",
+    "age": 26,
+    "grade": 3.7,
+    "studentID": "8"
+  },
+  {
+    "name": "Agnieszka Kaczmarek",
+    "age": 28,
+    "grade": 4.3,
+    "studentID": "9"
+  },
+  {
+    "name": "Robert Piotrowski",
+    "age": 30,
+    "grade": 2.8,
+    "studentID": "10"
+  }
+]
